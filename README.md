@@ -1,6 +1,6 @@
 # Dashboard de Produtividade
 
-Este projeto consiste em um Dashboard de Produtividade desenvolvido em Python, utilizando o framework Streamlit, para rastreamento de tarefas, horas dedicadas e consumo de água. Foi criado como uma atividade de extensão e complementar para a faculdade, totalizando 70 horas de dedicação.
+Este projeto consiste em um Dashboard de Produtividade desenvolvido em Python, utilizando o framework Streamlit, para rastreamento de tarefas, horas dedicadas e consumo de água. Foi criado como uma atividade de extensão para a faculdade, totalizando 70 horas de dedicação.
 
 ## Funcionalidades
 
