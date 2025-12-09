@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Executáveis (PyInstaller)
+*.exe
+*.spec
+Dashboard_Produtividade
+.cache/
